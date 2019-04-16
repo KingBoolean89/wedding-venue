@@ -8,4 +8,7 @@ $('#view-work').on('click', function() {
       900
     );
   });
-  
+I am angry I can't type that well!
+I am angry I can't type that well!
+I am angry I can't type that well!
+I am angry I can't t
